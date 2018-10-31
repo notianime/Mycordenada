@@ -1,0 +1,13 @@
+F:\dev\MyApp\MyApp\bin\Debug\MyApp.exe.config
+F:\dev\MyApp\MyApp\bin\Debug\MyApp.exe
+F:\dev\MyApp\MyApp\bin\Debug\MyApp.pdb
+F:\dev\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+F:\dev\MyApp\MyApp\obj\Debug\MyApp.exe
+F:\dev\MyApp\MyApp\obj\Debug\MyApp.pdb
+E:\RayRojas\dev\MyApp\MyApp\bin\Debug\MyApp.exe.config
+E:\RayRojas\dev\MyApp\MyApp\bin\Debug\MyApp.exe
+E:\RayRojas\dev\MyApp\MyApp\bin\Debug\MyApp.pdb
+E:\RayRojas\dev\MyApp\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+E:\RayRojas\dev\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+E:\RayRojas\dev\MyApp\MyApp\obj\Debug\MyApp.exe
+E:\RayRojas\dev\MyApp\MyApp\obj\Debug\MyApp.pdb
